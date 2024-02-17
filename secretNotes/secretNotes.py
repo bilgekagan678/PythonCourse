@@ -1,5 +1,7 @@
 import tkinter as tk
+from tkinter import messagebox
 from PIL import Image, ImageTk
+import os
 
 window = tk.Tk()
 window.title("Secret Notes")
@@ -24,6 +26,28 @@ def hide_key():
     show_button.image = img3
     show_button.grid(row=0, column=1, padx=5)
     key_entry.config(show="*")
+
+
+def save_and_encrypt():
+    script_dir = os.path.dirname(__file__)
+    file_path = os.path.join(script_dir, "mySecretNote.txt")
+    try:
+        title_content = title_entry.get()
+        text_content = message_text.get("1.0", "end-1c")
+        if title_content and text_content:
+            with open(file_path, 'a') as file:
+                file.write("\n"+title_content+"\n"+text_content)
+            messagebox.showinfo("Saved!", f"File saved to: {file_path}")
+        elif not title_content:
+            messagebox.showwarning("Title Missing!", "Title content is missing!")
+        else:
+            messagebox.showwarning("Text Missing!", "Text content is missing!")
+    except Exception as e:
+        messagebox.showerror("Error!", f"Error saving file: {str(e)}")
+
+
+def decrypt():
+    pass
 
 
 # UI
@@ -62,7 +86,7 @@ show_button.image = img4
 show_button.grid(row=0, column=1, padx=5)
 key_entry.config(show="*")
 
-save_encrypt_btn = tk.Button(window, text="Save & Encrypt", font=("Arial", 8, "bold"))
+save_encrypt_btn = tk.Button(window, text="Save & Encrypt", font=("Arial", 8, "bold"), command=save_and_encrypt)
 save_encrypt_btn.pack()
 
 decrypt_btn = tk.Button(window, text="Decrypt", font=("Arial", 8, "bold"))
