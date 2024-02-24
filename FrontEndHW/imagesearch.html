@@ -15,7 +15,7 @@
 <header>
   <ul>
       <li><a class="links" href="https://accounts.google.com/"><button class="signbutton" type="button">Sign in</button></a></li>
-      <li><a href="imagesearch.html">Images</a></li>
+      <li><a href="https://images.google.com/">Images</a></li>
       <li><a href="https://mail.google.com/">Gmail</a></li>
   </ul>
 </header>
@@ -26,13 +26,13 @@
   <img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
 </div>
 
-<form id="search-form" action="https://www.google.com/search" method="GET">
+<form id="search-form" action="https://images.google.com/search" method="GET">
   <div class="bar">
-    <input class="searchbar" type="text" title="Search" name="q" placeholder="Search Google">
+    <input class="searchbar" type="text" title="Search" name="q" placeholder="Search Google Images">
+    <input type="hidden" name="tbm" value="isch">
   </div>
   <div class="buttons">
-    <button class="button" type="submit">Google Search</button>
-    <button class="button" type="submit" formaction="https://www.google.com/search?btnI=1">I'm Feeling Lucky</button>
+    <button class="button" type="submit">Search Image</button>
   </div>
 </form>
 
