@@ -1,0 +1,30 @@
+1. Everyone seems to forget why GNOME and GNOME 3 and Unity happened || News link: https://liam-on-linux.dreamwidth.org/85359.html
+2. GPT in 500 Lines of SQL || News link: https://explainextended.com/2023/12/31/happy-new-year-15/
+3. Geospatial Nix – create, use and deploy today || News link: https://geospatial-nix.today/
+4. Power Metal: is it really about dragons? (2018) || News link: https://notes.atomutek.org/power-metal-and-dragons.html
+5. Ten years of remembering every day that passes || News link: http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html
+6. Never-Repeating Tiles Can Safeguard Quantum Information || News link: https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
+7. Shoes makes building little graphical programs for Mac, Windows, Linux simple || News link: http://shoesrb.com/
+8. Meta's new LLM-based test generator || News link: https://read.engineerscodex.com/p/metas-new-llm-based-test-generator
+9. The Earth is getting greener || News link: https://www.vox.com/down-to-earth/2024/2/7/24057308/earth-global-greening-climate-change-carbon
+10. Generative Models: What do they know? Do they know things? Let's find out || News link: https://intrinsic-lora.github.io/
+11. Contributing Scrutiny to Nixpkgs || News link: https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/
+12. Neutrino (2010) [pdf] || News link: http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf
+13. Show HN: Consol3 – A 3D engine for the terminal that executes on the CPU || News link: https://github.com/Victormeriqui/Consol3
+14. Notes from an Interviewer || News link: https://devwithahammer.wordpress.com/2024/02/23/notes-from-an-interviewer/
+15. Go(lang): Robust generic functions on slices || News link: https://go.dev/blog/generic-slice-functions
+16. How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022) || News link: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html
+17. Lisp Programming with Vim (2019) || News link: https://susam.net/lisp-in-vim.html
+18. DVD's New Cousin Can Store More Than a Petabit || News link: https://spectrum.ieee.org/data-storage-petabit-optical-disc
+19. A modest update to Qubes OS || News link: https://lwn.net/SubscriberLink/962787/35f1ff3af9031437/
+20. Unlocking NetWare 2.0a || News link: http://www.os2museum.com/wp/unlocking-netware-2-0a/
+21. The Ultimate Guide to PostgreSQL Data Change Tracking || News link: https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572
+22. Chronic Stress Spreads Cancer || News link: https://www.cshl.edu/chronic-stress-spreads-cancer-heres-how/
+23. Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere || News link: https://ok-robot.github.io/
+24. Please make your table headings sticky || News link: https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/
+25. Shakespeare expert overturns fly-tipper myth about playwright's father || News link: https://www.theguardian.com/culture/2024/feb/23/shakespeare-expert-overturns-fly-tipper-myth-about-playwrights-father
+26. Herr Bischoff's Spam Blocklists || News link: https://ipbl.herrbischoff.com/
+27. Emergence of stone-tool use behavior in a population of common macaques || News link: https://pubmed.ncbi.nlm.nih.gov/38012960/
+28. J3blocks is a Janet scripting system for i3bar and swaybar || News link: https://codeberg.org/amano.kenji/j3blocks
+29. LilyPond: Music notation for everyone || News link: https://lilypond.org/
+30. A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months || News link: https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay
